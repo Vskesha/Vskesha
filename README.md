@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vskesha
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning Pyton
+- 🌱 I’m learning Pyton
 
 <!---
 Vskesha/Vskesha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
