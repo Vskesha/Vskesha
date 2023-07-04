@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vskesha
+- 👋 Hi, I’m Vasyl Boliukh (vskesha)
 - 👀 I’m interested in crypto
 - 🌱 I’m learning Python
 
