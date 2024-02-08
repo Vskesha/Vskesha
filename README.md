@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasyl Boliukh (vskesha)
-- 👀 I’m interested in crypto
-- 🌱 I’m learning Python
+- 🌱 I’m python developer
+- 👀 I’m in love with programming
 
 <!---
 Vskesha/Vskesha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
